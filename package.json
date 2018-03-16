@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin_demo",
+  "version": "1.0.0",
+  "description": "To check functionality of bitcoin",
+  "main": "server.js",
+  "repository": "https://github.com/sonukumar16/bitcoin_demo.git",
+  "author": "sonu kumar",
+  "license": "MIT",
+  "dependencies": {
+    "bitcoin": "^3.0.1"
+  }
+}
