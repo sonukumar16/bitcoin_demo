@@ -3,7 +3,7 @@ var client = new bitcoin.Client({
   host: 'localhost',
   port: 8332,
   user: 'sonu',
-  pass: 'Mobiloitte123'
+  pass: 'Root@123'
 });
  
 client.getDifficulty(function(err, difficulty) {
